@@ -185,14 +185,6 @@ Progressive enhancement with 4 profiles:
 
 ---
 
-## Get Involved
-
-### Community
-
-- **Issues**: [Report Bugs or Request Features](https://github.com/JSON-AGENTS/Standard/issues)
-- **Email**: spec@agentsjson.org
-- **Twitter**: [@JSONAgents](https://twitter.com/JSONAgents) _(coming soon)_
-
 ### Contributing
 
 We welcome contributions of all kinds:
