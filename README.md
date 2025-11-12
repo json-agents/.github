@@ -1,4 +1,4 @@
-# JSON AGENTS
+# JSON Agents
 
 <div align="center">
 
@@ -15,13 +15,13 @@
 
 ---
 
-## What is JSON AGENTS?
+## What is JSON Agents?
 
 **JSON AGENTS** defines the **Portable Agent Manifest (PAM)** — a universal, JSON-native format for describing AI agents, their capabilities, tools, runtimes, and governance in a single, interoperable manifest.
 
 It enables seamless agent portability across frameworks, platforms, and ecosystems without code translation.
 
-### Why JSON AGENTS?
+### Why JSON Agents?
 
 - **Framework Interoperability**: Convert between LangChain, OpenAI, AutoGen, MCP, and custom frameworks
 - **Universal Standard**: One manifest format that works everywhere
@@ -244,7 +244,7 @@ JSON AGENTS is built on established foundations:
 
 JSON AGENTS is released under the **Apache 2.0 License**.
 
-See [LICENSE](https://github.com/JSON-AGENTS/Standard/blob/main/LICENSE) for details.
+See [LICENSE](https://github.com/JSON-Agents/Standard/blob/main/LICENSE) for details.
 
 ---
 
