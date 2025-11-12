@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![JSON AGENTS](https://raw.githubusercontent.com/JSON-AGENTS/.github/main/jsonagents.webp)
-
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/JSON-AGENTS/Standard)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/JSON-AGENTS/Standard/blob/main/LICENSE)
 [![Standard](https://img.shields.io/badge/standard-RFC%208259-orange.svg)](https://datatracker.ietf.org/doc/html/rfc8259)
